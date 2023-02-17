@@ -16,8 +16,7 @@ export const FeedBackBtn = styled.button`
   cursor: pointer;
   transition: scale 250ms linear, box-shadow 250ms linear;
 
-  :hover,
-  :focus {
+  :hover {
     scale: 1.1;
 
     :first-of-type {
