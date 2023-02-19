@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 export const Title = styled.h2`
   font-size: 32px;
   text-align: center;
-  color: #ff6f00;
+  color: #e0a96d;
 `;
 export const Wrapper = styled.section`
   width: 440px;

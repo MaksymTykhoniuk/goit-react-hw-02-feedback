@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 import { FeedBackBtn, BtnContainer } from './FeedbackOptions.styled';
 
-export const FeedbackOptions = ({ options, onLeaveFeedback, icons }) => {
+export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   return (
     <BtnContainer>
       {options.map(option => {
